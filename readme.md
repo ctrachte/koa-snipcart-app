@@ -2,3 +2,5 @@
 this app was built by following a tutorial:
 - [checkout the github here](https://github.com/snipcart/node-js-ecommerce-koajs)
 - [checkout the tutorial here](https://snipcart.com/blog/node-js-ecommerce-koa-js-tutorial)
+
+**current default config doesn't work, api keys and userIds need to be added**
