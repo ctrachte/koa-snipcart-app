@@ -4,7 +4,7 @@ const path = require('path')
 const Koa = require('koa')
 const Router = require('koa-router')
 const loadRoutes = require("./app/routes")
-const DataLoader = require('./DataLoader')
+const DataLoader = require('./app/tools/DataLoader')
 const views = require('koa-views')
 const serve = require('koa-static')
 
